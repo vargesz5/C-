@@ -1,0 +1,16 @@
+C:\Users\varga.mate\source\repos\emelterettsegifeladat\emelterettsegifeladat\bin\Debug\net8.0\csevegesek.txt
+C:\Users\varga.mate\source\repos\emelterettsegifeladat\emelterettsegifeladat\bin\Debug\net8.0\tagok.txt
+C:\Users\varga.mate\source\repos\emelterettsegifeladat\emelterettsegifeladat\bin\Debug\net8.0\emelterettsegifeladat.exe
+C:\Users\varga.mate\source\repos\emelterettsegifeladat\emelterettsegifeladat\bin\Debug\net8.0\emelterettsegifeladat.deps.json
+C:\Users\varga.mate\source\repos\emelterettsegifeladat\emelterettsegifeladat\bin\Debug\net8.0\emelterettsegifeladat.runtimeconfig.json
+C:\Users\varga.mate\source\repos\emelterettsegifeladat\emelterettsegifeladat\bin\Debug\net8.0\emelterettsegifeladat.dll
+C:\Users\varga.mate\source\repos\emelterettsegifeladat\emelterettsegifeladat\bin\Debug\net8.0\emelterettsegifeladat.pdb
+C:\Users\varga.mate\source\repos\emelterettsegifeladat\emelterettsegifeladat\obj\Debug\net8.0\emelterettsegifeladat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\varga.mate\source\repos\emelterettsegifeladat\emelterettsegifeladat\obj\Debug\net8.0\emelterettsegifeladat.AssemblyInfoInputs.cache
+C:\Users\varga.mate\source\repos\emelterettsegifeladat\emelterettsegifeladat\obj\Debug\net8.0\emelterettsegifeladat.AssemblyInfo.cs
+C:\Users\varga.mate\source\repos\emelterettsegifeladat\emelterettsegifeladat\obj\Debug\net8.0\emelterettsegifeladat.csproj.CoreCompileInputs.cache
+C:\Users\varga.mate\source\repos\emelterettsegifeladat\emelterettsegifeladat\obj\Debug\net8.0\emelterettsegifeladat.dll
+C:\Users\varga.mate\source\repos\emelterettsegifeladat\emelterettsegifeladat\obj\Debug\net8.0\refint\emelterettsegifeladat.dll
+C:\Users\varga.mate\source\repos\emelterettsegifeladat\emelterettsegifeladat\obj\Debug\net8.0\emelterettsegifeladat.pdb
+C:\Users\varga.mate\source\repos\emelterettsegifeladat\emelterettsegifeladat\obj\Debug\net8.0\emelterettsegifeladat.genruntimeconfig.cache
+C:\Users\varga.mate\source\repos\emelterettsegifeladat\emelterettsegifeladat\obj\Debug\net8.0\ref\emelterettsegifeladat.dll
